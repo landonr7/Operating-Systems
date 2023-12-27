@@ -1,0 +1,350 @@
+Customer 44 enters the grocery store.
+Customer 12 enters the grocery store.
+Customer 45 enters the grocery store.
+Customer 28 enters the grocery store.
+Customer 49 enters the grocery store.
+Customer 13 enters the grocery store.
+Customer 4 enters the grocery store.
+Customer 19 enters the grocery store.
+Customer 3 enters the grocery store.
+Customer 6 enters the grocery store.
+Customer 5 enters the grocery store.
+Customer 35 enters the grocery store.
+Customer 30 enters the grocery store.
+Customer 15 enters the grocery store.
+Customer 36 enters the grocery store.
+Customer 2 enters the grocery store.
+Customer 25 enters the grocery store.
+Customer 39 enters the grocery store.
+Customer 18 enters the grocery store.
+Customer 20 enters the grocery store.
+Customer 8 enters the grocery store.
+Customer 47 enters the grocery store.
+Customer 34 enters the grocery store.
+Customer 7 enters the grocery store.
+Customer 11 enters the grocery store.
+Customer 14 enters the grocery store.
+Customer 44 enters the waiting room.
+Customer 48 enters the grocery store.
+Customer 23 enters the grocery store.
+Customer 40 enters the grocery store.
+Customer 29 enters the grocery store.
+Customer 42 enters the grocery store.
+Customer 21 enters the grocery store.
+Customer 41 enters the grocery store.
+Customer 38 enters the grocery store.
+Customer 16 enters the grocery store.
+Customer 37 enters the grocery store.
+Customer 33 enters the grocery store.
+Customer 32 enters the grocery store.
+Customer 17 enters the grocery store.
+Customer 10 enters the grocery store.
+Customer 9 enters the grocery store.
+Customer 46 enters the grocery store.
+Customer 27 enters the grocery store.
+Customer 24 enters the grocery store.
+Customer 43 enters the grocery store.
+Customer 50 enters the grocery store.
+Customer 22 enters the grocery store.
+Customer 1 enters the grocery store.
+Customer 31 enters the grocery store.
+Customer 26 enters the grocery store.
+Customer 36 enters the waiting room.
+Customer 19 enters the waiting room.
+Customer 49 enters the waiting room.
+Customer 13 enters the waiting room.
+Customer 4 enters the waiting room.
+Customer 6 enters the waiting room.
+Customer 12 enters the waiting room.
+Customer 45 enters the waiting room.
+Customer 15 enters the waiting room.
+Customer 3 enters the waiting room.
+Customer 35 enters the waiting room.
+Customer 5 enters the waiting room.
+Customer 28 enters the waiting room.
+Customer 30 enters the waiting room.
+Customer 2 enters the waiting room.
+Customer 25 enters the waiting room.
+Customer 39 enters the waiting room.
+Customer 18 enters the waiting room.
+Customer 20 enters the waiting room.
+Customer 8 enters the waiting room.
+Customer 47 enters the waiting room.
+Customer 34 enters the waiting room.
+Customer 7 enters the waiting room.
+Customer 11 enters the waiting room.
+Customer 14 enters the waiting room.
+Customer 48 enters the waiting room.
+Customer 23 enters the waiting room.
+Customer 40 enters the waiting room.
+Customer 29 enters the waiting room.
+Customer 42 enters the waiting room.
+Customer 21 enters the waiting room.
+Customer 41 enters the waiting room.
+Customer 38 enters the waiting room.
+Customer 16 enters the waiting room.
+Customer 37 enters the waiting room.
+Customer 33 enters the waiting room.
+Customer 32 enters the waiting room.
+Customer 17 enters the waiting room.
+Customer 10 enters the waiting room.
+    Customer 44 enters Produce Section. Current customers in Produce Section: 1
+    Customer 36 enters Produce Section. Current customers in Produce Section: 2
+    Customer 19 enters Produce Section. Current customers in Produce Section: 3
+    Customer 49 enters Produce Section. Current customers in Produce Section: 4
+    Customer 13 enters Produce Section. Current customers in Produce Section: 5
+    Customer 4 enters Produce Section. Current customers in Produce Section: 6
+    Customer 6 enters Produce Section. Current customers in Produce Section: 7
+    Customer 12 enters Produce Section. Current customers in Produce Section: 8
+    Customer 45 enters Produce Section. Current customers in Produce Section: 9
+    Customer 15 enters Produce Section. Current customers in Produce Section: 10
+    Customer 3 enters Produce Section. Current customers in Produce Section: 11
+    Customer 35 enters Produce Section. Current customers in Produce Section: 12
+    Customer 5 enters Produce Section. Current customers in Produce Section: 13
+    Customer 28 enters Produce Section. Current customers in Produce Section: 14
+    Customer 30 enters Produce Section. Current customers in Produce Section: 15
+    Customer 2 enters Produce Section. Current customers in Produce Section: 16
+    Customer 25 enters Produce Section. Current customers in Produce Section: 17
+    Customer 39 enters Produce Section. Current customers in Produce Section: 18
+    Customer 18 enters Produce Section. Current customers in Produce Section: 19
+    Customer 20 enters Produce Section. Current customers in Produce Section: 20
+        Customer 30 enters General Grocery Section. Current customers in General Grocery Section: 1
+        Customer 35 enters General Grocery Section. Current customers in General Grocery Section: 2
+        Customer 36 enters General Grocery Section. Current customers in General Grocery Section: 3
+        Customer 19 enters General Grocery Section. Current customers in General Grocery Section: 4
+        Customer 4 enters General Grocery Section. Current customers in General Grocery Section: 5
+        Customer 15 enters General Grocery Section. Current customers in General Grocery Section: 6
+        Customer 18 enters General Grocery Section. Current customers in General Grocery Section: 7
+        Customer 28 enters General Grocery Section. Current customers in General Grocery Section: 8
+        Customer 45 enters General Grocery Section. Current customers in General Grocery Section: 9
+        Customer 20 enters General Grocery Section. Current customers in General Grocery Section: 10
+        Customer 13 enters General Grocery Section. Current customers in General Grocery Section: 11
+        Customer 49 enters General Grocery Section. Current customers in General Grocery Section: 12
+            Customer 35 enters Frozen Section. Current customers in Frozen Section: 1
+        Customer 5 enters General Grocery Section. Current customers in General Grocery Section: 13
+        Customer 6 enters General Grocery Section. Current customers in General Grocery Section: 14
+            Customer 15 enters Frozen Section. Current customers in Frozen Section: 2
+        Customer 25 enters General Grocery Section. Current customers in General Grocery Section: 15
+        Customer 12 enters General Grocery Section. Current customers in General Grocery Section: 16
+        Customer 3 enters General Grocery Section. Current customers in General Grocery Section: 17
+            Customer 18 enters Frozen Section. Current customers in Frozen Section: 3
+        Customer 2 enters General Grocery Section. Current customers in General Grocery Section: 18
+                Customer 15 enters Cashier Section. Current customers in Cashier Section: 1
+        Customer 39 enters General Grocery Section. Current customers in General Grocery Section: 19
+        Customer 44 enters General Grocery Section. Current customers in General Grocery Section: 20
+            Customer 4 enters Frozen Section. Current customers in Frozen Section: 4
+            Customer 2 enters Frozen Section. Current customers in Frozen Section: 5
+            Customer 19 enters Frozen Section. Current customers in Frozen Section: 6
+            Customer 36 enters Frozen Section. Current customers in Frozen Section: 7
+            Customer 49 enters Frozen Section. Current customers in Frozen Section: 8
+            Customer 3 enters Frozen Section. Current customers in Frozen Section: 9
+            Customer 12 enters Frozen Section. Current customers in Frozen Section: 10
+            Customer 6 enters Frozen Section. Current customers in Frozen Section: 11
+            Customer 45 enters Frozen Section. Current customers in Frozen Section: 12
+            Customer 20 enters Frozen Section. Current customers in Frozen Section: 13
+            Customer 5 enters Frozen Section. Current customers in Frozen Section: 14
+            Customer 30 enters Frozen Section. Current customers in Frozen Section: 15
+            Customer 13 enters Frozen Section. Current customers in Frozen Section: 16
+                        Customer 15 exits the grocery store.
+Customer 9 enters the waiting room.
+    Customer 8 enters Produce Section. Current customers in Produce Section: 20
+            Customer 28 enters Frozen Section. Current customers in Frozen Section: 16
+            Customer 25 enters Frozen Section. Current customers in Frozen Section: 17
+                Customer 30 enters Cashier Section. Current customers in Cashier Section: 1
+                Customer 5 enters Cashier Section. Current customers in Cashier Section: 2
+                Customer 13 enters Cashier Section. Current customers in Cashier Section: 3
+                Customer 36 enters Cashier Section. Current customers in Cashier Section: 4
+                        Customer 13 exits the grocery store.
+Customer 46 enters the waiting room.
+    Customer 47 enters Produce Section. Current customers in Produce Section: 20
+        Customer 8 enters General Grocery Section. Current customers in General Grocery Section: 19
+            Customer 39 enters Frozen Section. Current customers in Frozen Section: 17
+        Customer 47 enters General Grocery Section. Current customers in General Grocery Section: 20
+            Customer 44 enters Frozen Section. Current customers in Frozen Section: 18
+                Customer 35 enters Cashier Section. Current customers in Cashier Section: 4
+                Customer 49 enters Cashier Section. Current customers in Cashier Section: 5
+                        Customer 5 exits the grocery store.
+Customer 27 enters the waiting room.
+    Customer 34 enters Produce Section. Current customers in Produce Section: 20
+                Customer 18 enters Cashier Section. Current customers in Cashier Section: 5
+                        Customer 30 exits the grocery store.
+Customer 24 enters the waiting room.
+    Customer 7 enters Produce Section. Current customers in Produce Section: 20
+            Customer 8 enters Frozen Section. Current customers in Frozen Section: 17
+                Customer 8 enters Cashier Section. Current customers in Cashier Section: 5
+                        Customer 35 exits the grocery store.
+Customer 43 enters the waiting room.
+    Customer 11 enters Produce Section. Current customers in Produce Section: 20
+                        Customer 18 exits the grocery store.
+Customer 50 enters the waiting room.
+    Customer 14 enters Produce Section. Current customers in Produce Section: 20
+        Customer 14 enters General Grocery Section. Current customers in General Grocery Section: 17
+                        Customer 36 exits the grocery store.
+Customer 22 enters the waiting room.
+    Customer 48 enters Produce Section. Current customers in Produce Section: 20
+                Customer 12 enters Cashier Section. Current customers in Cashier Section: 3
+                Customer 44 enters Cashier Section. Current customers in Cashier Section: 4
+                        Customer 49 exits the grocery store.
+    Customer 23 enters Produce Section. Current customers in Produce Section: 20
+Customer 1 enters the waiting room.
+                Customer 28 enters Cashier Section. Current customers in Cashier Section: 4
+                Customer 39 enters Cashier Section. Current customers in Cashier Section: 5
+                Customer 45 enters Cashier Section. Current customers in Cashier Section: 6
+        Customer 23 enters General Grocery Section. Current customers in General Grocery Section: 16
+        Customer 34 enters General Grocery Section. Current customers in General Grocery Section: 17
+                Customer 4 enters Cashier Section. Current customers in Cashier Section: 7
+                Customer 2 enters Cashier Section. Current customers in Cashier Section: 8
+                        Customer 12 exits the grocery store.
+Customer 31 enters the waiting room.
+    Customer 1 enters Produce Section. Current customers in Produce Section: 20
+        Customer 48 enters General Grocery Section. Current customers in General Grocery Section: 17
+                Customer 20 enters Cashier Section. Current customers in Cashier Section: 8
+        Customer 11 enters General Grocery Section. Current customers in General Grocery Section: 18
+                        Customer 44 exits the grocery store.
+Customer 26 enters the waiting room.
+    Customer 40 enters Produce Section. Current customers in Produce Section: 20
+                        Customer 2 exits the grocery store.
+    Customer 29 enters Produce Section. Current customers in Produce Section: 20
+            Customer 34 enters Frozen Section. Current customers in Frozen Section: 11
+        Customer 7 enters General Grocery Section. Current customers in General Grocery Section: 17
+                        Customer 39 exits the grocery store.
+    Customer 42 enters Produce Section. Current customers in Produce Section: 20
+                        Customer 28 exits the grocery store.
+    Customer 21 enters Produce Section. Current customers in Produce Section: 20
+            Customer 47 enters Frozen Section. Current customers in Frozen Section: 10
+                        Customer 45 exits the grocery store.
+    Customer 41 enters Produce Section. Current customers in Produce Section: 20
+                Customer 6 enters Cashier Section. Current customers in Cashier Section: 4
+                Customer 19 enters Cashier Section. Current customers in Cashier Section: 5
+        Customer 29 enters General Grocery Section. Current customers in General Grocery Section: 15
+                        Customer 8 exits the grocery store.
+    Customer 38 enters Produce Section. Current customers in Produce Section: 20
+                        Customer 4 exits the grocery store.
+    Customer 16 enters Produce Section. Current customers in Produce Section: 20
+                        Customer 6 exits the grocery store.
+    Customer 37 enters Produce Section. Current customers in Produce Section: 20
+            Customer 48 enters Frozen Section. Current customers in Frozen Section: 7
+        Customer 37 enters General Grocery Section. Current customers in General Grocery Section: 13
+            Customer 14 enters Frozen Section. Current customers in Frozen Section: 8
+                Customer 3 enters Cashier Section. Current customers in Cashier Section: 3
+            Customer 7 enters Frozen Section. Current customers in Frozen Section: 9
+        Customer 40 enters General Grocery Section. Current customers in General Grocery Section: 14
+                Customer 34 enters Cashier Section. Current customers in Cashier Section: 4
+            Customer 23 enters Frozen Section. Current customers in Frozen Section: 10
+                Customer 25 enters Cashier Section. Current customers in Cashier Section: 5
+        Customer 16 enters General Grocery Section. Current customers in General Grocery Section: 15
+                        Customer 20 exits the grocery store.
+    Customer 33 enters Produce Section. Current customers in Produce Section: 20
+        Customer 1 enters General Grocery Section. Current customers in General Grocery Section: 15
+            Customer 29 enters Frozen Section. Current customers in Frozen Section: 10
+                Customer 29 enters Cashier Section. Current customers in Cashier Section: 5
+                Customer 7 enters Cashier Section. Current customers in Cashier Section: 6
+        Customer 42 enters General Grocery Section. Current customers in General Grocery Section: 16
+                        Customer 25 exits the grocery store.
+    Customer 32 enters Produce Section. Current customers in Produce Section: 20
+            Customer 1 enters Frozen Section. Current customers in Frozen Section: 10
+        Customer 38 enters General Grocery Section. Current customers in General Grocery Section: 16
+        Customer 33 enters General Grocery Section. Current customers in General Grocery Section: 17
+                Customer 47 enters Cashier Section. Current customers in Cashier Section: 6
+            Customer 11 enters Frozen Section. Current customers in Frozen Section: 11
+                Customer 23 enters Cashier Section. Current customers in Cashier Section: 7
+                        Customer 47 exits the grocery store.
+    Customer 17 enters Produce Section. Current customers in Produce Section: 20
+                        Customer 34 exits the grocery store.
+    Customer 10 enters Produce Section. Current customers in Produce Section: 20
+        Customer 21 enters General Grocery Section. Current customers in General Grocery Section: 16
+        Customer 41 enters General Grocery Section. Current customers in General Grocery Section: 17
+                        Customer 3 exits the grocery store.
+    Customer 9 enters Produce Section. Current customers in Produce Section: 20
+        Customer 9 enters General Grocery Section. Current customers in General Grocery Section: 17
+                        Customer 19 exits the grocery store.
+    Customer 46 enters Produce Section. Current customers in Produce Section: 20
+            Customer 16 enters Frozen Section. Current customers in Frozen Section: 8
+                Customer 1 enters Cashier Section. Current customers in Cashier Section: 4
+            Customer 41 enters Frozen Section. Current customers in Frozen Section: 9
+        Customer 32 enters General Grocery Section. Current customers in General Grocery Section: 17
+                        Customer 29 exits the grocery store.
+    Customer 27 enters Produce Section. Current customers in Produce Section: 20
+                        Customer 1 exits the grocery store.
+    Customer 24 enters Produce Section. Current customers in Produce Section: 20
+        Customer 17 enters General Grocery Section. Current customers in General Grocery Section: 16
+                        Customer 7 exits the grocery store.
+    Customer 43 enters Produce Section. Current customers in Produce Section: 20
+            Customer 38 enters Frozen Section. Current customers in Frozen Section: 7
+                        Customer 23 exits the grocery store.
+    Customer 50 enters Produce Section. Current customers in Produce Section: 20
+        Customer 50 enters General Grocery Section. Current customers in General Grocery Section: 15
+            Customer 9 enters Frozen Section. Current customers in Frozen Section: 7
+        Customer 10 enters General Grocery Section. Current customers in General Grocery Section: 16
+            Customer 37 enters Frozen Section. Current customers in Frozen Section: 8
+            Customer 21 enters Frozen Section. Current customers in Frozen Section: 9
+            Customer 42 enters Frozen Section. Current customers in Frozen Section: 10
+            Customer 40 enters Frozen Section. Current customers in Frozen Section: 11
+            Customer 17 enters Frozen Section. Current customers in Frozen Section: 12
+        Customer 46 enters General Grocery Section. Current customers in General Grocery Section: 17
+        Customer 24 enters General Grocery Section. Current customers in General Grocery Section: 18
+                Customer 11 enters Cashier Section. Current customers in Cashier Section: 1
+            Customer 50 enters Frozen Section. Current customers in Frozen Section: 13
+            Customer 33 enters Frozen Section. Current customers in Frozen Section: 14
+        Customer 43 enters General Grocery Section. Current customers in General Grocery Section: 19
+        Customer 27 enters General Grocery Section. Current customers in General Grocery Section: 20
+            Customer 27 enters Frozen Section. Current customers in Frozen Section: 15
+                Customer 17 enters Cashier Section. Current customers in Cashier Section: 2
+            Customer 43 enters Frozen Section. Current customers in Frozen Section: 16
+                Customer 27 enters Cashier Section. Current customers in Cashier Section: 3
+                Customer 40 enters Cashier Section. Current customers in Cashier Section: 4
+            Customer 46 enters Frozen Section. Current customers in Frozen Section: 17
+                Customer 14 enters Cashier Section. Current customers in Cashier Section: 5
+                        Customer 14 exits the grocery store.
+    Customer 22 enters Produce Section. Current customers in Produce Section: 20
+            Customer 32 enters Frozen Section. Current customers in Frozen Section: 17
+                Customer 48 enters Cashier Section. Current customers in Cashier Section: 5
+                        Customer 11 exits the grocery store.
+    Customer 31 enters Produce Section. Current customers in Produce Section: 20
+                Customer 50 enters Cashier Section. Current customers in Cashier Section: 5
+            Customer 10 enters Frozen Section. Current customers in Frozen Section: 17
+                Customer 37 enters Cashier Section. Current customers in Cashier Section: 6
+            Customer 24 enters Frozen Section. Current customers in Frozen Section: 18
+                Customer 21 enters Cashier Section. Current customers in Cashier Section: 7
+                        Customer 17 exits the grocery store.
+    Customer 26 enters Produce Section. Current customers in Produce Section: 20
+                Customer 41 enters Cashier Section. Current customers in Cashier Section: 7
+        Customer 31 enters General Grocery Section. Current customers in General Grocery Section: 18
+                        Customer 48 exits the grocery store.
+                        Customer 27 exits the grocery store.
+                        Customer 41 exits the grocery store.
+                        Customer 40 exits the grocery store.
+        Customer 22 enters General Grocery Section. Current customers in General Grocery Section: 15
+                Customer 9 enters Cashier Section. Current customers in Cashier Section: 4
+                Customer 16 enters Cashier Section. Current customers in Cashier Section: 5
+                        Customer 21 exits the grocery store.
+                        Customer 50 exits the grocery store.
+                Customer 43 enters Cashier Section. Current customers in Cashier Section: 4
+                Customer 33 enters Cashier Section. Current customers in Cashier Section: 5
+                        Customer 37 exits the grocery store.
+        Customer 26 enters General Grocery Section. Current customers in General Grocery Section: 13
+                Customer 38 enters Cashier Section. Current customers in Cashier Section: 5
+                        Customer 33 exits the grocery store.
+            Customer 22 enters Frozen Section. Current customers in Frozen Section: 10
+            Customer 26 enters Frozen Section. Current customers in Frozen Section: 11
+                        Customer 16 exits the grocery store.
+                        Customer 9 exits the grocery store.
+                Customer 22 enters Cashier Section. Current customers in Cashier Section: 3
+            Customer 31 enters Frozen Section. Current customers in Frozen Section: 10
+                Customer 42 enters Cashier Section. Current customers in Cashier Section: 4
+                        Customer 43 exits the grocery store.
+                Customer 31 enters Cashier Section. Current customers in Cashier Section: 4
+                Customer 24 enters Cashier Section. Current customers in Cashier Section: 5
+                        Customer 31 exits the grocery store.
+                        Customer 38 exits the grocery store.
+                Customer 26 enters Cashier Section. Current customers in Cashier Section: 4
+                        Customer 22 exits the grocery store.
+                        Customer 42 exits the grocery store.
+                Customer 46 enters Cashier Section. Current customers in Cashier Section: 3
+                Customer 32 enters Cashier Section. Current customers in Cashier Section: 4
+                        Customer 26 exits the grocery store.
+                Customer 10 enters Cashier Section. Current customers in Cashier Section: 4
+                        Customer 24 exits the grocery store.
+                        Customer 46 exits the grocery store.
+                        Customer 10 exits the grocery store.
+                        Customer 32 exits the grocery store.

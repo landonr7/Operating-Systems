@@ -1,0 +1,61 @@
+Customer 5 enters the barbershop.
+Customer 15 enters the barbershop.
+Customer 2 enters the barbershop.
+Customer 10 enters the barbershop.
+Customer 15 entered the waiting area. There are 1 customers in the waiting room and 0 getting their hair cut.
+Customer 2 entered the waiting area. There are 1 customers in the waiting room and 1 getting their hair cut.
+Customer 5 entered the waiting area. There are 2 customers in the waiting room and 1 getting their hair cut.
+Customer 10 entered the waiting area. There are 3 customers in the waiting room and 1 getting their hair cut.
+Customer 15 enters a barber's chair. There are 1 customers getting their haircut and 0 customers in the waiting room.
+Customer 2 enters a barber's chair. There are 2 customers getting their haircut and 2 customers in the waiting room.
+Customer 5 enters a barber's chair. There are 3 customers getting their haircut and 1 customers in the waiting room.
+Customer 10 enters a barber's chair. There are 4 customers getting their haircut and 0 customers in the waiting room.
+Customer 12 enters the barbershop.
+Customer 12 entered the waiting area. There are 1 customers in the waiting room and 4 getting their hair cut.
+Customer 12 enters a barber's chair. There are 5 customers getting their haircut and 0 customers in the waiting room.
+Customer 4 enters the barbershop.
+Customer 4 entered the waiting area. There are 1 customers in the waiting room and 5 getting their hair cut.
+Customer 5 finished their haircut. There are 4 customers getting their haircut.
+Customer 4 enters a barber's chair. There are 5 customers getting their haircut and 0 customers in the waiting room.
+Customer 1 enters the barbershop.
+Customer 1 entered the waiting area. There are 1 customers in the waiting room and 5 getting their hair cut.
+Customer 6 enters the barbershop.
+Customer 6 entered the waiting area. There are 2 customers in the waiting room and 5 getting their hair cut.
+Customer 9 enters the barbershop.
+Customer 9 entered the waiting area. There are 3 customers in the waiting room and 5 getting their hair cut.
+Customer 12 finished their haircut. There are 4 customers getting their haircut.
+Customer 1 enters a barber's chair. There are 5 customers getting their haircut and 2 customers in the waiting room.
+Customer 3 enters the barbershop.
+Customer 3 entered the waiting area. There are 3 customers in the waiting room and 5 getting their hair cut.
+Customer 7 enters the barbershop.
+Customer 7 entered the waiting area. There are 4 customers in the waiting room and 5 getting their hair cut.
+Customer 8 enters the barbershop.
+Customer 8 entered the waiting area. There are 5 customers in the waiting room and 5 getting their hair cut.
+Customer 11 enters the barbershop.
+Customer 10 finished their haircut. There are 4 customers getting their haircut.
+Customer 6 enters a barber's chair. There are 5 customers getting their haircut and 4 customers in the waiting room.
+Customer 11 entered the waiting area. There are 5 customers in the waiting room and 5 getting their hair cut.
+Customer 13 enters the barbershop.
+Customer 2 finished their haircut. There are 4 customers getting their haircut.
+Customer 9 enters a barber's chair. There are 5 customers getting their haircut and 5 customers in the waiting room.
+Customer 13 entered the waiting area. There are 6 customers in the waiting room and 4 getting their hair cut.
+Customer 15 finished their haircut. There are 4 customers getting their haircut.
+Customer 3 enters a barber's chair. There are 5 customers getting their haircut and 4 customers in the waiting room.
+Customer 14 enters the barbershop.
+Customer 14 entered the waiting area. There are 5 customers in the waiting room and 5 getting their hair cut.
+Customer 3 finished their haircut. There are 4 customers getting their haircut.
+Customer 7 enters a barber's chair. There are 5 customers getting their haircut and 4 customers in the waiting room.
+Customer 4 finished their haircut. There are 4 customers getting their haircut.
+Customer 8 enters a barber's chair. There are 5 customers getting their haircut and 3 customers in the waiting room.
+Customer 1 finished their haircut. There are 4 customers getting their haircut.
+Customer 11 enters a barber's chair. There are 5 customers getting their haircut and 2 customers in the waiting room.
+Customer 6 finished their haircut. There are 4 customers getting their haircut.
+Customer 13 enters a barber's chair. There are 5 customers getting their haircut and 1 customers in the waiting room.
+Customer 11 finished their haircut. There are 4 customers getting their haircut.
+Customer 14 enters a barber's chair. There are 5 customers getting their haircut and 0 customers in the waiting room.
+Customer 9 finished their haircut. There are 4 customers getting their haircut.
+Customer 13 finished their haircut. There are 3 customers getting their haircut.
+Customer 7 finished their haircut. There are 2 customers getting their haircut.
+Customer 8 finished their haircut. There are 1 customers getting their haircut.
+Customer 14 finished their haircut. There are 0 customers getting their haircut.
+All customers have been given a clean cut. Closing the shop

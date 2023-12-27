@@ -1,0 +1,1 @@
+enter "java CroceryStore <run time> <number of customers>" into command line
